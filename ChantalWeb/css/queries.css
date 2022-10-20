@@ -334,6 +334,12 @@
     .banner-text p span{
         font-size: 2rem;
     }
+    .about-text-box{
+        width:100%;
+    }
+    .skill-card-box{
+        width:100%;
+    }
 }
 /* 350px */
 @media(max-width:21em){
